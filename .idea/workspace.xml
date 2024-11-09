@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd6d3280-5206-47d4-aa0f-c15faabd3fa5" name="Changes" comment="preprocessing for diversity shift" />
+    <list default="true" id="cd6d3280-5206-47d4-aa0f-c15faabd3fa5" name="Changes" comment="count keywords">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +68,8 @@
     <MESSAGE value="preprocessing" />
     <MESSAGE value="table of contents" />
     <MESSAGE value="preprocessing for diversity shift" />
-    <option name="LAST_COMMIT_MESSAGE" value="preprocessing for diversity shift" />
+    <MESSAGE value="count keywords" />
+    <option name="LAST_COMMIT_MESSAGE" value="count keywords" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
