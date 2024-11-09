@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd6d3280-5206-47d4-aa0f-c15faabd3fa5" name="Changes" comment="install seaborn">
+    <list default="true" id="cd6d3280-5206-47d4-aa0f-c15faabd3fa5" name="Changes" comment="Finish style config">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "cparthiv"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/cparthiv/RHS-TSA-Data-Science-Qualifier-2024.git",
+    "accountId": "345d6cc3-2cde-494b-b532-c41ddffba2c0"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -49,7 +62,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="install seaborn" />
-    <option name="LAST_COMMIT_MESSAGE" value="install seaborn" />
+    <MESSAGE value="Style config" />
+    <MESSAGE value="Finish style config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish style config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
