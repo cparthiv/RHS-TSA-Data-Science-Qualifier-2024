@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd6d3280-5206-47d4-aa0f-c15faabd3fa5" name="Changes" comment="preprocessing">
+    <list default="true" id="cd6d3280-5206-47d4-aa0f-c15faabd3fa5" name="Changes" comment="table of contents">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Parthiv/AppData/Local/JetBrains/DataSpell2024.2/demo/ds/dataspell_demo"
   }
@@ -65,7 +66,8 @@
     <MESSAGE value="Style config" />
     <MESSAGE value="Finish style config" />
     <MESSAGE value="preprocessing" />
-    <option name="LAST_COMMIT_MESSAGE" value="preprocessing" />
+    <MESSAGE value="table of contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="table of contents" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
