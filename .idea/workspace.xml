@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd6d3280-5206-47d4-aa0f-c15faabd3fa5" name="Changes" comment="Finish style config">
+    <list default="true" id="cd6d3280-5206-47d4-aa0f-c15faabd3fa5" name="Changes" comment="preprocessing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
@@ -64,7 +64,8 @@
     <MESSAGE value="install seaborn" />
     <MESSAGE value="Style config" />
     <MESSAGE value="Finish style config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish style config" />
+    <MESSAGE value="preprocessing" />
+    <option name="LAST_COMMIT_MESSAGE" value="preprocessing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
