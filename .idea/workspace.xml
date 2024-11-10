@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd6d3280-5206-47d4-aa0f-c15faabd3fa5" name="Changes" comment="workspace conf">
+    <list default="true" id="cd6d3280-5206-47d4-aa0f-c15faabd3fa5" name="Changes" comment="try to fix gitignore">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,9 @@
   "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2oahe9mUiTZk01K2uYKc4S9bgDk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,9 +55,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Parthiv/DataspellProjects/RHS-TSA-Data-Science-Qualifier-2024/dist",
+    "last_opened_file_path": "C:/Users/Parthiv/DataspellProjects/RHS-TSA-Data-Science-Qualifier-2024/.idea",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -97,7 +100,11 @@
     <MESSAGE value="add csv to git" />
     <MESSAGE value="remove table of contents (unusable)" />
     <MESSAGE value="workspace conf" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace conf" />
+    <MESSAGE value="jetbrains gitignore" />
+    <MESSAGE value="idea conf" />
+    <MESSAGE value="topics" />
+    <MESSAGE value="try to fix gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="try to fix gitignore" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
