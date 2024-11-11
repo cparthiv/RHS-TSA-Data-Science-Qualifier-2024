@@ -17,4 +17,6 @@ Process is described with the code in the [Jupyter Notebook](main.ipynb) and a s
         - Global Expansion Reflected in Production Countries
         - Simplification of Content Descriptions Over Time
         - Diversity in the Acting Crew Over Time
-  
+- Writeup
+    - Used LaTeX in the creation of the graphs
+    - Used Overleaf (online latex editor) 
